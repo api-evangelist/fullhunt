@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://api-docs.fullhunt.io/#introduction
 common:
+  - type: VulnerabilityDisclosure
+    url: security/fullhunt-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/fullhunt-domain-security.yml
   - type: Website
     url: https://api-docs.fullhunt.io/#introduction
   - type: PublicAPIsListing
