@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fullhunt.p
 name: FullHunt
 description: "Searchable attack surface database of the entire internet"
 url: https://api-docs.fullhunt.io/#introduction
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
