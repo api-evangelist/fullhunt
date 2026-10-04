@@ -39,7 +39,6 @@ apis:
   - name: FullHunt
     description: "Searchable attack surface database of the entire internet"
     humanURL: https://api-docs.fullhunt.io/#introduction
-    baseURL: https://api-docs.fullhunt.io/#introduction
     tags:
       - Security
     properties:
